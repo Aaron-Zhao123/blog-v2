@@ -23,7 +23,11 @@
   type: time_table
   contents:
     - title: Assistant Professor in Computer Engineering
-      institution: Imperial College London
+      institution: Electrical and Electronic Engineering, Imperial College London
+      year: Sep 2022 - Now
+
+    - title: Visiting Researcher 
+      institution: Department of Computer Science and Technology, University of Cambridge
       year: Sep 2022 - Now
 
     - title: Part-time Research Contractor

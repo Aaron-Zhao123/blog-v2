@@ -32,5 +32,5 @@ I also hold some other positions as
 * a collaborator at the [The Center for Spatial Computational Learning](https://spatialml.net/).
 * an affiliate at the [CaRAML group](https://caraml-group.github.io/).
 
-The best way to reach me is always email: a.zhao@imperial.ac.uk
+The best way to reach me is always email: a.zhao@imperial.ac.uk.
 
