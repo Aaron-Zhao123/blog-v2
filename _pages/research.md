@@ -18,6 +18,8 @@ ML security-related topics with a hardware spin.
 
 See advice [for students](/students) (this includes internships, undergraduate or master projects, and PhD applicants), and information for collaborators, if you want to contact me for study or collaborations.
 
+I lead the [DeepWok Lab](https://deepwok.github.io/), and most of the research related updates are in the lab wiki.
+
 ---
 
 # Quick Bio
