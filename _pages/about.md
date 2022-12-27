@@ -27,9 +27,9 @@ I am a computer scientist, and am
 * involved in the [Imperial-X](https://ix.imperial.ac.uk/#our-research) initiative.
 * a visiting researcher at the [University of Cambridge](https://www.cst.cam.ac.uk/people/yaz21).
 
-I also hold some other positions including
+I also hold some other positions as
 
-* an collaborator at the [The Center for Spatial Computational Learning](https://spatialml.net/).
+* a collaborator at the [The Center for Spatial Computational Learning](https://spatialml.net/).
 * an affiliate at the [CaRAML group](https://caraml-group.github.io/).
 
 The best way to reach me is always email: a.zhao@imperial.ac.uk
