@@ -9,20 +9,39 @@ nav_order: 2
 
 # Table of Contents
 
-1. [What's New](#new)
-2. [Summer Research Placement](#placement)
-3. [Student Projects (PartII, III, Mphil, FYP and MSc)](#project)
-4. [PhD opportunities](#phd)
+- [Table of Contents](#table-of-contents)
+	- [What's new? ](#whats-new-)
+	- [My supervision style ](#my-supervision-style-)
+	- [Research placement (non-PhD level) ](#research-placement-non-phd-level-)
+	- [Student Projects ](#student-projects-)
+	- [PhD opportunities ](#phd-opportunities-)
 
 Each year, we run and supervise a number of students for their undergraduate and master projects at Imperial College London and the University of Cambridge. We also run a great number of summer research internships.
 
-I am very proud that many of these projects/placements lead to publication(s) at the end, even with our first/second year undergraduate students.
+**I am very proud that many of my supervised projects/placements lead to publication(s) at the end, even with our first/second year undergraduate students.**
 
 ---
 
 ## What's new? <a name="new"></a>
 
 * Updated my PartII, III and MPhil projects (2022-2023) proposals (last updated 27/12/2022) at the [Deepwok page](https://deepwok.github.io/). Please check this link if you are interested in having a UROP project (Research summer internship) with us. This is only for cambridge students. (last updated 27/12/2022)
+
+---
+
+## My supervision style <a name="style"></a>
+
+**For Student Projects (Summer, Part II, III, FYP and MSc projects)**
+
+My strategy to design such a project is to have an achievable basis so that nobody fails, but also I make sure there is a research-orientated extension.
+**I am not interested in pure engineering projects (eg. website making, APP building ...)**
+
+I have supervised several students in the past, and found this strategy extremely helpful to our students, with some of the students ended up writing a research paper (some published in Tier-1 venues like ICML) at the end of the project.
+
+I am also happy with self-proposed projects, please write me an email to discuss about your ideas.
+
+**For PhD Projects**
+
+See [below](#phd).
 
 ---
 
@@ -34,7 +53,9 @@ The list of possible projects are at [Deepwok](https://deepwok.github.io/), I am
 
 ---
 
-## Final Year Project, MSc Project, Part II/III Project and Mphil Project <a name="project"></a>
+## Student Projects <a name="project"></a>
+
+**Final Year Project, MSc Project, Part II/III Project and Mphil Project**
 
 If you are a student at the University of Cambridge and are interested in doing a Part II, III, or Mphil Project with me, please throw me an email, and see an incomplete project suggestions below (email me for more proposals or propose your own project!).
 
@@ -82,7 +103,9 @@ Feel free to contact me if you are interested in joining my group.
 I will describe what does ML research mean to me and how I can help students in different ways.
 
 I am actively writing code, in both software and hardware, and am happy to help people (including students) to debug.
+
 I have a wide range of collaborations with researchers of different backgrounds and am always happy to refer students to my collaborators. I enjoyed doing a lot of placements/internships during my PhD and I would strongly suggest other PhDs to do the same given that they are on track.
+
 I am not interested in helping you become an ‘engineer’ or ‘technician’, I would strongly encourage students to bounce ideas around and hopefully can become independent researchers at the end.
 I am generally very chilled and am open to any research ideas.
 

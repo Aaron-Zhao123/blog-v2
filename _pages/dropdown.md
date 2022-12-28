@@ -19,6 +19,7 @@ children:
     - title: divider
     - title: Coding
       permalink: /coding/
+    - title: divider
     - title: Courses 
       permalink: /teaching/
 
