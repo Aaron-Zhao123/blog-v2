@@ -17,8 +17,8 @@ children:
     - title: Publications
       permalink: /publications
     - title: divider
-    - title: Coding
-      permalink: /coding
+    - title: Random
+      permalink: /random
     - title: divider
     - title: Courses 
       permalink: /teaching
