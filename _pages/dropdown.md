@@ -6,21 +6,21 @@ nav_order: 8
 dropdown: true
 children: 
     - title: Research
-      permalink: /research/
+      permalink: /research
     - title: divider
     - title: For Students 
-      permalink: /students/
+      permalink: /students
     - title: divider
     - title: Bio
-      permalink: /bio/
+      permalink: /bio
     - title: divider
     - title: Publications
-      permalink: /publications/
+      permalink: /publications
     - title: divider
     - title: Coding
-      permalink: /coding/
+      permalink: /coding
     - title: divider
     - title: Courses 
-      permalink: /teaching/
+      permalink: /teaching
 
 ---
