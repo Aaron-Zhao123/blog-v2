@@ -34,3 +34,22 @@ I also hold some other positions as
 
 The best way to reach me is always email: a.zhao@imperial.ac.uk.
 
+If you are a student interested in doing research with me or my team, please check [here](/students).
+
+---
+
+# Quick Bio
+
+I am an Assistant Professor at Imperial College London ([department wiki](https://www.imperial.ac.uk/people/a.zhao) and [Lab wiki](https://deepwok.github.io/)).
+
+Prior to that, I was a Junior Research Fellow at [St John's College](https://www.joh.cam.ac.uk/), University of Cambridge. I had my PhD studies at the [Computer Lab of the University of Cambridge](https://www.cst.cam.ac.uk/), supervised by [Prof. Robert Mullins](https://www.cl.cam.ac.uk/~rdm34/). I finished my MPhil degree from Cambridge and was supervised by Prof. Robert Mullins as well. 
+Before that, I obtained my [Electrical and Electronic Engineering](https://www.imperial.ac.uk/electrical-engineering/) BEng degree from the Imperial College London with my final two years supervised by [Prof. George Constantinides](https://cas.ee.ic.ac.uk/people/gac1/). During my BEng studies, I was tutored by [Dr. Papavassiliou](https://cas.ee.ic.ac.uk/people/dario/).
+
+I have previously worked at various placements and have taken part-time research positions at Microsoft Research and Apple AI/ML.
+I review for several hardware, system, and machine learning conferences, including ICLR, ICML, NeurIPS, CVPR, etc.
+
+I was a recipient of the Junior Research Fellowship at St John’s College, the University of Cambridge in 2021, and was awarded as an Apple Scholar in AI and ML in 2020.
+
+A more complete bio is available [here](/bio)
+
+---
