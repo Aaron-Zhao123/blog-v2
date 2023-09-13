@@ -25,6 +25,7 @@ I am a computer scientist, and am
 * an Assistant Professor (Lecturer in UK terms) at [Imperial College London](https://www.imperial.ac.uk/people/a.zhao).
 * leading the [DeepWok Lab](https://deepwok.github.io/).
 * involved in the [Imperial-X](https://ix.imperial.ac.uk/#our-research) initiative.
+* involved in the [AI-4-EB Consortium](https://www.imperial.ac.uk/ukri-ai-engineering/members/).
 * a visiting researcher at the [University of Cambridge](https://www.cst.cam.ac.uk/people/yaz21).
 
 I also hold some other positions as
