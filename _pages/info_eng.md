@@ -30,4 +30,13 @@ This course is lab-based.
 
 ## Lecture Slides
 
+<a href="../../assets/pdf/ie/lecture1.pdf">Lecture 1</a>,
+<a href="../../assets/pdf/ie/lecture2.pdf">Lecture 2</a>,
+<a href="../../assets/pdf/ie/lecture3.pdf">Lecture 3</a>,
+<a href="../../assets/pdf/ie/lecture4.pdf">Lecture 4</a>,
+<a href="../../assets/pdf/ie/lecture5.pdf">Lecture 5</a>,
+<a href="../../assets/pdf/ie/lecture6.pdf">Lecture 6</a>
+
 ## Labs
+
+[Lab link (for lab1-4)](https://github.com/Aaron-Zhao123/ELEC50009)
