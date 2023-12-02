@@ -24,7 +24,7 @@ This course is lab-based.
 ## Important dates
 
 - 21st Jan, Group Registration, group members might be from the same cohort (Group A or B)
-- 14th Feb, Mid-term Assessment (20%)
+- 14th Feb, Mid-term lab oral (20%)
 - 14th March, Demo showcase
 - 21st March, Final Report (80%)
 
