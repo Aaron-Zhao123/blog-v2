@@ -5,7 +5,7 @@ nav: false
 nav_order: 3
 ---
 
-# Information Engineering (IE)
+# Information Processing (IP)
 
 Course code: ELEC50009
 
