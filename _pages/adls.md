@@ -11,11 +11,11 @@ Course code: ELEC70109/EE9-AML3-10/EE9-AO25
 
 ## Important dates
 
-- 21st Jan, Group Registration (Group A or B)
-- 12th Feb, Mid-term lab oral (20%)
-- 18th March, Show me your code lab oral (jointly assessed with the report)
-- 28th March, Final Report (80%)
-
+- 29th Jan, Team project sign-up/proposal starts
+- 9th Feb, Team project sign-up ends
+- TBC, but around 5th Feb, Midterm lab oral
+- TBC, but around 18th Mar, Show me your code session
+- 28th Mar, Report submission and pull request finalization
 
 ## Lecture Slides
 
