@@ -1,14 +1,9 @@
 ---
 layout: default
-permalink: /teaching/info_eng/
-nav: false
-nav_order: 3
-img: assets/img/12.jpg
-importance: 2
-category: teaching
+permalink: /teaching/info_process/
 ---
 
-# Information Processing (IP)
+# Information Processing (InfoProcess)
 
 Course code: ELEC50009
 

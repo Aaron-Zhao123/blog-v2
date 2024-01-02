@@ -1,11 +1,6 @@
 ---
 layout: default
 permalink: /teaching/adls/
-nav: false
-nav_order: 3
-img: assets/img/12.jpg
-importance: 1
-category: teaching
 ---
 
 # Advanced Deep Learning Systems (ADLS)
