@@ -8,6 +8,6 @@ display_categories: [teaching]
 nav_order: 3
 ---
 
-[Information Processing](/teaching/info_process) (ELEC70009)
+[Information Processing](/_teaching/info_process) (ELEC70009)
 
-[Advanced Deep Learning Systems](/teaching/adls) (ELEC70109/EE9-AML3-10/EE9-AO25)
+[Advanced Deep Learning Systems](/_teaching/adls) (ELEC70109/EE9-AML3-10/EE9-AO25)
