@@ -22,7 +22,7 @@ nav_order: 6
     }
 
     .image {
-      width: 50%;
+      width: 30%;
     }
 
     .image img {
@@ -32,7 +32,7 @@ nav_order: 6
     }
 
     .text {
-      width: 50%;
+      width: 70%;
       padding: 0 20px;
     }
   </style>
