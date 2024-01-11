@@ -21,19 +21,31 @@ This course is lab-based.
 
 ## Important dates
 
-- 21st Jan, Group Registration, group members might be from the same cohort (Group A or B)
+- 21st Jan, Group Registration, group members must be from the same cohort (Group A or B)
+- 31st Jan, Group Registration ends
 - 14th Feb, Mid-term lab oral (20%)
-- 14th March, Demo showcase
+- 14th March, Demo showcase, Final lab oral
 - 21st March, Final Report (80%)
+
+
+## Full dates
+
+Labs for Group As are on Tuesdays (4-6pm) and Bs are on Thursdays (9-11am) in the level 1 lab.
+
+- Week 2 (15th Jan): Lecture 1 (Intro and Lab 1), labs
+- Week 3 (22nd Jan): Lecture 2 (Lab 2 and 3), labs, Group Registration starts
+- Week 4 (29th Jan): Lecture 3 (By Sarim), labs
+- Week 5 (5th Feb): Lecture 4 (By Sarim), labs
+- Week 6 (12th Feb): Mid-term lab oral
+- Week 7 (19th Feb): Labs for group projects, progress meeting
+- Week 8 (26th Feb): Labs for group projects
+- Week 9 (4th Mar): Labs for group projects
+- Week 10 (11th Mar): Demo showcase, final lab oral
 
 ## Lecture Slides
 
-<a href="../../assets/pdf/ie/lecture1.pdf">Lecture 1</a>,
-<a href="../../assets/pdf/ie/lecture2.pdf">Lecture 2</a>,
-<a href="../../assets/pdf/ie/lecture3.pdf">Lecture 3</a>,
-<a href="../../assets/pdf/ie/lecture4.pdf">Lecture 4</a>,
-<a href="../../assets/pdf/ie/lecture5.pdf">Lecture 5</a>,
-<a href="../../assets/pdf/ie/lecture6.pdf">Lecture 6</a>
+<a href="../../assets/pdf/ip/week2.pdf">Week 2 lecture slides</a>,
+<a href="../../assets/pdf/ip/week3.pdf">Week 3 lecture slides</a>,
 
 ## Labs
 

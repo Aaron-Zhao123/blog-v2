@@ -10,27 +10,42 @@ Course code: ELEC70109/EE9-AML3-10/EE9-AO25
 ## Important dates
 
 - 29th Jan, Team project sign-up/proposal starts
+- 5th Feb, Practical 1 (Lab 1 and 2) and Practical 2 (Lab 3 and 4) submission
 - 9th Feb, Team project sign-up ends
-- TBC, but around 5th Feb, Midterm lab oral
+- TBC, but around 5th Feb, Midterm lab oral for both practicals
 - TBC, but around 18th Mar, Show me your code session
 - 28th Mar, Report submission and pull request finalization
+
+## Full dates
+
+- Week 2 (15th Jan): Lecture 1 and 2
+- Week 3 (22nd Jan): Lab 1
+- Week 4 (29th Jan): Lab 2, team project sign-up starts
+- Week 5 (5th Feb): Lecture 3 and 4, team project sign-up ddl, Mid-term oral
+- Week 6 (12th Feb): Lecture 5 and 6
+- Week 7 (19th Feb): Lecture 7 and 8
+- Week 8 (26th Feb): Lab 3
+- Week 9 (4th Mar): Lab 4
+- Week 10 (11th Mar): Lab 5
+- Week 11 (18th Mar): Show me your code
 
 
 #### Lecture 1: An Introduction to Modern Deep Learning Systems and Frameworks
 
-- <a href="../../assets/pdf/ie/lecture1.pdf">Slides</a>
+- <a href="../../assets/pdf/adls/lecture1.pdf">Slides</a>
+- [Git tutorial](https://jianyicheng-research.notion.site/Git-Tutorial-516864ab8fa04242ad520652744b931f)
 - [Dark Silicon and the End of Multicore Scaling](https://research.cs.wisc.edu/vertical/papers/2011/isca11-darksilicon.pdf)
 - [Managing Wire Delay in Large Chip-Multiprocessor Caches](https://ieeexplore.ieee.org/abstract/document/1551004?casa_token=P5sarPuvBZ4AAAAA:eh8TDWxx89Z04mkFw2KdFrvWhD2raDe_u66ES8e5ZEpxq276zQ0wfs2uE6tWVdQhodRf9lSmAQ)
 
 #### Lecture 2: MASE: Abstractions, Optimizations and Implementations
 
-- <a href="../../assets/pdf/ie/lecture2.pdf">Slides</a>
+- <a href="../../assets/pdf/adls/lecture2.pdf">Slides</a>
 - [Troch FX](https://pytorch.org/docs/stable/fx.html)
 - [MASE](https://github.com/DeepWok/mase)
 
 #### Lecture 3: Understanding the Workloads: Part 1
 
-- <a href="../../assets/pdf/ie/lecture3.pdf">Slides</a>
+<!-- - <a href="../../assets/pdf/ie/lecture3.pdf">Slides</a> -->
 - [Convolution and DeConvolution animation](https://github.com/vdumoulin/conv_arithmetic/blob/master/README.md)
 - [Convolution padding and striding animation](https://hannibunny.github.io/mlbook/neuralnetworks/convolutionDemos.html)
 - [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
