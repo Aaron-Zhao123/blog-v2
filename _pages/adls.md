@@ -18,16 +18,17 @@ Course code: ELEC70109/EE9-AML3-10/EE9-AO25
 
 ## Full dates
 
-- Week 2 (15th Jan): Lecture 1 and 2
-- Week 3 (22nd Jan): Lab 1
-- Week 4 (29th Jan): Lab 2, team project sign-up starts
-- Week 5 (5th Feb): Lecture 3 and 4, team project sign-up ddl, Mid-term oral
-- Week 6 (12th Feb): Lecture 5 and 6
-- Week 7 (19th Feb): Lecture 7 and 8
-- Week 8 (26th Feb): Lab 3
-- Week 9 (4th Mar): Lab 4
-- Week 10 (11th Mar): Lab 5
+- Week 2 (15th Jan): Lecture 1, 2, 3 and 4
+- Week 3 (22nd Jan): Practical 1 Lab
+- Week 4 (29th Jan): Practical 2 Lab; team project sign-up starts
+- Week 5 (5th Feb): Lecture 5, 6, 7 and 8; team project sign-up ddl, Mid-term oral
+- Week 6 (12th Feb): Lecture 9, 10, 11 and 12
+- Week 7 (19th Feb): Lecture 13, 14, 15 and 16
+- Week 8 (26th Feb): Team project lab 1
+- Week 9 (4th Mar): Team project lab 2
+- Week 10 (11th Mar): Team project lab 3
 - Week 11 (18th Mar): Show me your code
+- Week 11 (28th Mar): Final Report
 
 
 #### Lecture 1: An Introduction to Modern Deep Learning Systems and Frameworks
