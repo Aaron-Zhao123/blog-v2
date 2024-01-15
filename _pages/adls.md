@@ -28,7 +28,7 @@ Course code: ELEC70109/EE9-AML3-10/EE9-AO25
 - Week 9 (4th Mar): Team project lab 2
 - Week 10 (11th Mar): Team project lab 3
 - Week 11 (18th Mar): Show me your code
-- Week 11 (28th Mar): Final Report
+- End of Term (28th Mar): Final Report (8-page) and Pull Request Finalization
 
 
 #### Lecture 1: An Introduction to Modern Deep Learning Systems and Frameworks
@@ -44,7 +44,16 @@ Course code: ELEC70109/EE9-AML3-10/EE9-AO25
 - [Troch FX](https://pytorch.org/docs/stable/fx.html)
 - [MASE](https://github.com/DeepWok/mase)
 
-#### Lecture 3: Understanding the Workloads: Part 1
+#### Lecture 3: An Introduction to Practical 1
+
+- <a href="../../assets/pdf/adls/lecture3.pdf">Slides</a>
+
+#### Lecture 4: An Introduction to Practical 2
+
+- <a href="../../assets/pdf/adls/lecture4.pdf">Slides</a>
+
+
+#### Lecture 5: Understanding the Workloads: Part 1
 
 <!-- - <a href="../../assets/pdf/ie/lecture3.pdf">Slides</a> -->
 - [Convolution and DeConvolution animation](https://github.com/vdumoulin/conv_arithmetic/blob/master/README.md)
@@ -59,3 +68,34 @@ Course code: ELEC70109/EE9-AML3-10/EE9-AO25
 - [LLaMA: Open and Efficient Foundation Language Models](<https://arxiv.org/abs/2302.13971>)
 
 ## Labs
+
+Labs are hosted on [Github](https://github.com/DeepWok/mase/tree/main/docs/labs)
+
+- [Lab1](https://github.com/DeepWok/mase/blob/main/docs/labs/lab1.md)
+- [Lab2](https://github.com/DeepWok/mase/blob/main/docs/labs/lab2.md)
+- [Lab3](https://github.com/DeepWok/mase/blob/main/docs/labs/lab3.md)
+- [Lab4 (Software Stream)](https://github.com/DeepWok/mase/blob/main/docs/labs/lab4-software.md)
+- [Lab4 (Hardware Stream)](https://github.com/DeepWok/mase/blob/main/docs/labs/lab4-hardware.md)
+
+## Assessment Information
+
+The assessment contains two practicals (15% each), and a team project with two people (70%).
+
+##### Practical 1 Submission (15%)
+
+ - Deadline (5th Feb, submission on BlackBoard): **A Markdown file**: with all answers (plots, tables ...) of the questions and optional questions in Lab 1 and Lab2. The file should be named as `practical1_your_college_short_code.md` (eg. `practical1_yz10513.md`). 
+ - Corresponding code in your forked repository (will be checked in the lab oral, no submission needed). But you can include code snippets in the submitted markdown file.
+ - Deadline (TBC, but around 5th Feb) **Lab Oral**.
+
+##### Practical 2 Submission (15%)
+
+ - Deadline (5th Feb, submission on BlackBoard): **A Markdown file**: with all answers (plots, tables ...) of the questions and optional questions in Lab 3 and Lab4. The file should be named as `practical2_your_college_short_code.md` (eg. `practical2_yz10513.md`). 
+ - Corresponding code in your forked repository (will be checked in the lab oral, no submission needed). But you can include code snippets in the submitted markdown file.
+ - Deadline (TBC, but around 5th Feb) **Lab Oral**.
+
+##### Team Project (70%)
+
+- A roadmap meeting with a GTA (not assessed).
+- Deadline (18th March): **A show me your code lab oral** (assessed).  
+- Deadline (28th March): **Coursework code submission** as a pull request on Github (assessed). The PR should also have a clear documentation of the functionality that you have implemented and its corresponding tests. The tests should be integrated into the existing testing framework.
+- Deadline (28th March, PDF attached in the PR): **8-page Report** (assessed). The report should mainly focus on an evaluation of your implementation. The description of functionality and testing has being described in the PR already, so this 8-page report should include the experiments you have designed to explore certain trade-offs and properties of your optimization.
