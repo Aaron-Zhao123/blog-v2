@@ -80,6 +80,7 @@ Labs are hosted on [Github](https://github.com/DeepWok/mase/tree/main/docs/labs)
 ## Assessment Information
 
 The assessment contains two practicals (15% each), and a team project with two people (70%).
+If you used Colab Pro, we are wiling to reimburse that cost, please keep a copy of your receipt.
 
 ##### Practical 1 Submission (15%)
 
