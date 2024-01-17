@@ -9,7 +9,6 @@ Course code: ELEC70109/EE9-AML3-10/EE9-AO25
 
 ## Important dates
 
-- 29th Jan, Team project sign-up/proposal starts
 - 5th Feb, Practical 1 (Lab 1 and 2) and Practical 2 (Lab 3 and 4) submission
 - 9th Feb, Team project sign-up ends
 - TBC, but around 5th Feb, Midterm lab oral for both practicals
@@ -18,9 +17,9 @@ Course code: ELEC70109/EE9-AML3-10/EE9-AO25
 
 ## Full dates
 
-- Week 2 (15th Jan): Lecture 1, 2, 3 and 4
+- Week 2 (15th Jan): Lecture 1, 2, 3 and 4, team sign up started
 - Week 3 (22nd Jan): Practical 1 Lab
-- Week 4 (29th Jan): Practical 2 Lab; team project sign-up starts
+- Week 4 (29th Jan): Practical 2 Lab
 - Week 5 (5th Feb): Lecture 5, 6, 7 and 8; team project sign-up ddl, Mid-term oral
 - Week 6 (12th Feb): Lecture 9, 10, 11 and 12
 - Week 7 (19th Feb): Lecture 13, 14, 15 and 16
@@ -96,6 +95,7 @@ If you used Colab Pro, we are wiling to reimburse that cost, please keep a copy 
 
 ##### Team Project (70%)
 
+- [Signup link](https://docs.google.com/spreadsheets/d/1atlb43T8x6Gv5idg0eupLlW1REFDdblw3pBgsSWci7E/edit?usp=sharing)
 - A roadmap meeting with a GTA (not assessed).
 - Deadline (18th March): **A show me your code lab oral** (assessed).  
 - Deadline (28th March): **Coursework code submission** as a pull request on Github (assessed). The PR should also have a clear documentation of the functionality that you have implemented and its corresponding tests. The tests should be integrated into the existing testing framework.
