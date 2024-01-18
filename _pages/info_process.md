@@ -45,7 +45,7 @@ Labs for Group As are on Tuesdays (4-6pm) and Bs are on Thursdays (9-11am) in th
 Lab schedules
 
 | Week Number | Date           | Lab Name    | Lab Time |
-|------------:|----------------|-------------|----------|
+|------------|----------------|-------------|----------|
 | 2          | 18th Jan (Thu) | Group B lab | 9am-11am |
 | 3          | 23th Jan (Tue) | Group A lab | 4pm-6pm  |
 | 3          | 25th Jan (Thu) | Group B lab | 9am-11am |

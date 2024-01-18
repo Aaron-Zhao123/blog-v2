@@ -18,7 +18,7 @@ Course code: ELEC70109/EE9-AML3-10/EE9-AO25
 ## Full dates
 
 | Week Number | Date      | Schedule    |
-|------------:|-----------|-------------|
+|------------|-----------|-------------|
 | 2          | 15th Jan   | Lecture 1, 2, 3 and 4, Team Signup starts|
 | 3          | 22nd Jan 	| Practical 1 lab |
 | 4          | 29th Jan 	| Practical 2 lab |
