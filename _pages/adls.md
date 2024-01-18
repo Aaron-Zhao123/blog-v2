@@ -70,13 +70,7 @@ Course code: ELEC70109/EE9-AML3-10/EE9-AO25
 
 ## Labs
 
-Labs are hosted on [Github](https://github.com/DeepWok/mase/tree/main/docs/labs)
-
-- [Lab1](https://github.com/DeepWok/mase/blob/main/docs/labs/lab1.md)
-- [Lab2](https://github.com/DeepWok/mase/blob/main/docs/labs/lab2.md)
-- [Lab3](https://github.com/DeepWok/mase/blob/main/docs/labs/lab3.md)
-- [Lab4 (Software Stream)](https://github.com/DeepWok/mase/blob/main/docs/labs/lab4-software.md)
-- [Lab4 (Hardware Stream)](https://github.com/DeepWok/mase/blob/main/docs/labs/lab4-hardware.md)
+Labs are hosted on [MASE Wiki](https://deepwok.github.io/mase/modules/labs.html#)
 
 ## Assessment Information
 
