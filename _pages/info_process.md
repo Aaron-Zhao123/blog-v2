@@ -23,7 +23,7 @@ This course is lab-based.
 
 - 21st Jan, Group Registration, group members must be from the same cohort (Group A or B)
 - 31st Jan, Group Registration ends
-- 14th Feb, Mid-term lab oral (20%)
+- 14th Feb, Mid-term lab oral (20%), Q\&As as a group, for contents in all the labs
 - 12th and 14th March, Demo showcase, Final lab oral
 - 21st March, Final Report (80%)
 
