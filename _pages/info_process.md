@@ -36,7 +36,7 @@ Labs for Group As are on Tuesdays (4-6pm) and Bs are on Thursdays (9-11am) in th
 - Week 3 (22nd Jan): Lecture 2 (Lab 2 and 3), labs, Group Registration starts
 - Week 4 (29th Jan): Lecture 3 (By Sarim), labs
 - Week 5 (5th Feb): Lecture 4 (By Sarim), labs
-- Week 6 (12th Feb): Mid-term lab oral
+- Week 6 (12th Feb): Mid-term lab oral (Q\&As as a group, for contents in lab1-6)
 - Week 7 (19th Feb): Labs for group projects, progress meeting
 - Week 8 (26th Feb): Labs for group projects
 - Week 9 (4th Mar): Labs for group projects
@@ -71,4 +71,4 @@ Lab schedules
 
 ## Labs
 
-[Lab link (for lab1-4)](https://github.com/Aaron-Zhao123/ELEC50009)
+[Lab link (for lab1-6)](https://github.com/Aaron-Zhao123/ELEC50009)
