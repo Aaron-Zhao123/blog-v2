@@ -22,9 +22,9 @@ Course code: ELEC70109/EE9-AML3-10/EE9-AO25
 | 2          | 15th Jan   | Lecture 1, 2, 3 and 4, Team Signup starts|
 | 3          | 22nd Jan 	| Practical 1 lab |
 | 4          | 29th Jan 	| Practical 2 lab |
-| 5          | 5th Feb  	| Lecture 5, 6, 7 and 8|
-| 6          | 12th Feb 	| Lecture 9, 10, 11 and 12|
-| 7          | 19th Feb 	| Lecture 13, 14, 15 and 16|
+| 5          | 5th Feb  	| Lecture 5, 6 and 7|
+| 6          | 12th Feb 	| Lecture 8, 9 and 10|
+| 7          | 19th Feb 	| Lecture 11, 12 and Team Project Meetings|
 | 8          | 26th Feb 	| Team Project Lab 1|
 | 9          | 4th Mar 	  | Team Project Lab 2|
 | 10         | 11th Mar 	| Team Project Lab 3|
@@ -56,7 +56,7 @@ Course code: ELEC70109/EE9-AML3-10/EE9-AO25
 
 #### Lecture 5: Understanding the Workloads: Part 1
 
-<!-- - <a href="../../assets/pdf/ie/lecture3.pdf">Slides</a> -->
+- <a href="../../assets/pdf/adls/lecture5.pdf">Slides</a>
 - [Convolution and DeConvolution animation](https://github.com/vdumoulin/conv_arithmetic/blob/master/README.md)
 - [Convolution padding and striding animation](https://hannibunny.github.io/mlbook/neuralnetworks/convolutionDemos.html)
 - [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
@@ -66,7 +66,26 @@ Course code: ELEC70109/EE9-AML3-10/EE9-AO25
 - [Attention Is All You Need](<https://arxiv.org/abs/1706.03762>)
 - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](<https://arxiv.org/abs/1810.04805>)
 - [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](<https://arxiv.org/abs/1910.10683>)
-- [LLaMA: Open and Efficient Foundation Language Models](<https://arxiv.org/abs/2302.13971>)
+
+#### Lecture 6: Understanding the Workloads: Part 2
+
+- <a href="../../assets/pdf/adls/lecture6.pdf">Slides</a>
+- [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971)
+- [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/abs/2307.09288)
+- [RoFormer: Enhanced Transformer with Rotary Position Embedding](https://arxiv.org/abs/2104.09864)
+- [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020)
+- [Segment Anything](https://arxiv.org/abs/2304.02643)
+- [WaveNet: A Generative Model for Raw Audio](https://arxiv.org/abs/1609.03499)
+- [Robust Speech Recognition via Large-Scale Weak Supervision](https://arxiv.org/abs/2212.04356)
+
+#### Lecture 7: Architectural Optimizations
+
+- <a href="../../assets/pdf/adls/lecture7.pdf">Slides</a>
+- [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861)
+- [Searching for MobileNetV3](https://arxiv.org/abs/1905.02244)
+- [MobileViT: Light-weight, General-purpose, and Mobile-friendly Vision Transformer](https://arxiv.org/abs/2110.02178)
+- [Longformer: The Long-Document Transformer](https://arxiv.org/abs/2004.05150)
+
 
 ## Labs
 
