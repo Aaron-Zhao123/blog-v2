@@ -9,9 +9,9 @@ Course code: ELEC70109/EE9-AML3-10/EE9-AO25
 
 ## Important dates
 
-- 5th Feb, Practical 1 (Lab 1 and 2) and Practical 2 (Lab 3 and 4) submission
+- 12th Feb, Practical 1 (Lab 1 and 2) and Practical 2 (Lab 3 and 4) submission (New date with one-week extension)
 - 9th Feb, Team project sign-up ends
-- TBC, but around 5th Feb, Midterm lab oral for both practicals
+- TBC, but around 12th Feb, Midterm lab oral for both practicals
 - TBC, but around 18th Mar, Show me your code session
 - 28th Mar, Report submission and pull request finalization
 
