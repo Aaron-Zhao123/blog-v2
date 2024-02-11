@@ -86,6 +86,37 @@ Course code: ELEC70109/EE9-AML3-10/EE9-AO25
 - [MobileViT: Light-weight, General-purpose, and Mobile-friendly Vision Transformer](https://arxiv.org/abs/2110.02178)
 - [Longformer: The Long-Document Transformer](https://arxiv.org/abs/2004.05150)
 
+#### Lecture 8: Architectural Optimizations
+
+- <a href="../../assets/pdf/adls/lecture8.pdf">Slides</a>
+- [Learning Transferable Architectures for Scalable Image Recognition](https://arxiv.org/abs/1707.07012)
+- [Exploring Randomly Wired Neural Networks for Image Recognition](https://arxiv.org/abs/1904.01569)
+- [DARTS: Differentiable Architecture Search](https://arxiv.org/abs/1806.09055)
+- [Probabilistic Dual Network Architecture Search on Graphs](https://arxiv.org/abs/2003.09676)
+- [Once-for-All: Train One Network and Specialize it for Efficient Deployment](https://arxiv.org/abs/1908.09791)
+- [Neural Architecture Search without Training](https://arxiv.org/abs/2006.04647)
+- [Speedy Performance Estimation for Neural Architecture Search](https://arxiv.org/abs/2006.04492)
+
+#### Lecture 9: Network Compression – Part 1
+
+- <a href="../../assets/pdf/adls/lecture9.pdf">Slides</a>
+- [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635)
+- [SNIP: Single-shot Network Pruning based on Connection Sensitivity](https://arxiv.org/abs/1810.02340)
+- [Progressive Skeletonization: Trimming more fat from a network at initialization](https://arxiv.org/abs/2006.09081)
+
+#### Lecture 10: Network Compression – Part 2
+
+- <a href="../../assets/pdf/adls/lecture10.pdf">Slides</a>
+- [Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/abs/1510.00149)
+- [TinyBERT: Distilling BERT for Natural Language Understanding](https://arxiv.org/abs/1909.10351)
+- [Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer](https://arxiv.org/abs/1612.03928)
+- [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531)
+- [Fast Algorithms for Convolutional Neural Networks](https://arxiv.org/abs/1509.09308)
+- [EIE: Efficient Inference Engine on Compressed Deep Neural Network](https://arxiv.org/abs/1602.01528)
+
+#### Lecture 11: Computation Graph and Operator-level Optimization
+
+#### Lecture 12: Distributed Training and Inference
 
 ## Labs
 
