@@ -86,7 +86,7 @@ Course code: ELEC70109/EE9-AML3-10/EE9-AO25
 - [MobileViT: Light-weight, General-purpose, and Mobile-friendly Vision Transformer](https://arxiv.org/abs/2110.02178)
 - [Longformer: The Long-Document Transformer](https://arxiv.org/abs/2004.05150)
 
-#### Lecture 8: Architectural Optimizations
+#### Lecture 8: Automated Machine Learning – An Introduction to Network Architecture Search
 
 - <a href="../../assets/pdf/adls/lecture8.pdf">Slides</a>
 - [Learning Transferable Architectures for Scalable Image Recognition](https://arxiv.org/abs/1707.07012)
@@ -114,9 +114,9 @@ Course code: ELEC70109/EE9-AML3-10/EE9-AO25
 - [Fast Algorithms for Convolutional Neural Networks](https://arxiv.org/abs/1509.09308)
 - [EIE: Efficient Inference Engine on Compressed Deep Neural Network](https://arxiv.org/abs/1602.01528)
 
-#### Lecture 11: Computation Graph and Operator-level Optimization
+<!-- #### Lecture 11: Computation Graph and Operator-level Optimization
 
-#### Lecture 12: Distributed Training and Inference
+#### Lecture 12: Distributed Training and Inference -->
 
 ## Labs
 
@@ -142,6 +142,8 @@ If you used Colab Pro, we are wiling to reimburse that cost, please keep a copy 
 ##### Team Project (70%)
 
 - [Team making proposal link](https://docs.google.com/spreadsheets/d/1atlb43T8x6Gv5idg0eupLlW1REFDdblw3pBgsSWci7E/edit?usp=sharing)
+- [Proposed projects](https://docs.google.com/document/d/1rRIJLxIZMVM3DLf2M_sHNxKYqzXlHxA5vM8Rl5YHehI/edit?usp=sharing)
+- [Project allocation]()
 - A roadmap meeting with a GTA (not assessed).
 - Deadline (18th March): **A show me your code lab oral** (assessed).  
 - Deadline (28th March): **Coursework code submission** as a pull request on Github (assessed). The PR should also have a clear documentation of the functionality that you have implemented and its corresponding tests. The tests should be integrated into the existing testing framework.
