@@ -141,9 +141,10 @@ If you used Colab Pro, we are wiling to reimburse that cost, please keep a copy 
 
 ##### Team Project (70%)
 
-- [Team making proposal link](https://docs.google.com/spreadsheets/d/1atlb43T8x6Gv5idg0eupLlW1REFDdblw3pBgsSWci7E/edit?usp=sharing)
-- [Proposed projects](https://docs.google.com/document/d/1rRIJLxIZMVM3DLf2M_sHNxKYqzXlHxA5vM8Rl5YHehI/edit?usp=sharing)
-- [Project allocation]()
+<!-- - [Team making proposal link](https://docs.google.com/spreadsheets/d/1atlb43T8x6Gv5idg0eupLlW1REFDdblw3pBgsSWci7E/edit?usp=sharing) -->
+- [List of projects](https://docs.google.com/document/d/1rRIJLxIZMVM3DLf2M_sHNxKYqzXlHxA5vM8Rl5YHehI/edit?usp=sharing)
+- [Project Teams](https://docs.google.com/spreadsheets/d/1atlb43T8x6Gv5idg0eupLlW1REFDdblw3pBgsSWci7E/edit?usp=sharing)
+- [Project Allocation](https://docs.google.com/spreadsheets/d/13HJrCRkkqF7PS0-2Db314xkFkReyX8swJTMRWXzwjY4/edit?usp=sharing)
 - A roadmap meeting with a GTA (not assessed).
 - Deadline (18th March): **A show me your code lab oral** (assessed).  
 - Deadline (28th March): **Coursework code submission** as a pull request on Github (assessed). The PR should also have a clear documentation of the functionality that you have implemented and its corresponding tests. The tests should be integrated into the existing testing framework.
