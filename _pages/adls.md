@@ -114,9 +114,16 @@ Course code: ELEC70109/EE9-AML3-10/EE9-AO25
 - [Fast Algorithms for Convolutional Neural Networks](https://arxiv.org/abs/1509.09308)
 - [EIE: Efficient Inference Engine on Compressed Deep Neural Network](https://arxiv.org/abs/1602.01528)
 
-<!-- #### Lecture 11: Computation Graph and Operator-level Optimization
+#### Lecture 11: Computation Graph and Operator-level Optimization
 
-#### Lecture 12: Distributed Training and Inference -->
+- <a href="../../assets/pdf/adls/lecture11.pdf">Slides</a>
+- [TASO: The Tensor Algebra SuperOptimizer for Deep Learning](https://github.com/jiazhihao/TASO)
+- [Tensorflow Grappler](https://www.tensorflow.org/guide/graph_optimization)
+- [TVM: An Automated End-to-End Optimizing Compiler for Deep Learning](https://arxiv.org/abs/1802.04799)
+- [MLIR](https://mlir.llvm.org/)
+
+
+<!-- #### Lecture 12: Distributed Training and Inference --> -->
 
 ## Labs
 
