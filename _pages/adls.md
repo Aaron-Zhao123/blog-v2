@@ -123,7 +123,13 @@ Course code: ELEC70109/EE9-AML3-10/EE9-AO25
 - [MLIR](https://mlir.llvm.org/)
 
 
-<!-- #### Lecture 12: Distributed Training and Inference --> -->
+#### Lecture 12: Distributed Training and Inference -->
+- <a href="../../assets/pdf/adls/lecture12.pdf">Slides</a>
+- [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](https://arxiv.org/abs/2201.12023)
+- [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629)
+- [Horovod: fast and easy distributed deep learning in TensorFlow](https://arxiv.org/abs/1802.05799)
+
+
 
 ## Labs
 
