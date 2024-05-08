@@ -5,7 +5,7 @@ date: 2022-12-22 16:11:00-0400
 inline: false
 ---
 
-In a recent paper written by our summer intern [Tim Clifford](https://tim.clifford.lol/), we present a system-level backdoor attack and a complete ML backdooring taxonomy.
+In a recent paper written by our summer intern [Eleanor Clifford](https://eleanor.clifford.lol/), we present a system-level backdoor attack and a complete ML backdooring taxonomy.
 
 ***
 
