@@ -9,7 +9,7 @@ In a recent paper written by our summer intern [Eleanor Clifford](https://eleano
 
 ***
 
-More details are discussed in the paper "ImpNet: Imperceptible and blackbox-undetectable backdoors in compiled neural networks" by Tim Clifford, Ilia Shumailov, Yiren Zhao, Ross Anderson, and Robert Mullins
+More details are discussed in the paper "ImpNet: Imperceptible and blackbox-undetectable backdoors in compiled neural networks" by Eleanor Clifford, Ilia Shumailov, Yiren Zhao, Ross Anderson, and Robert Mullins
 
 
 * [Taxonomy Website](https://mlbackdoors.soc.srcf.net/)
