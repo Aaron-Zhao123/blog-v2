@@ -22,7 +22,7 @@ Hello, thanks for visiting my personal Wiki.
 
 I am a computer scientist, and am
 
-* an Assistant Professor (Lecturer in UK terms) at [Imperial College London](https://www.imperial.ac.uk/people/a.zhao).
+* an Assistant Professor (Lecturer, UK) at [Imperial College London](https://www.imperial.ac.uk/people/a.zhao).
 * a Visiting Researcher at the [University of Cambridge](https://www.cst.cam.ac.uk/people/yaz21).
 * leading the [DeepWok Lab](https://deepwok.github.io/).
 * involved in the [Imperial-X](https://ix.imperial.ac.uk/#our-research) initiative.
