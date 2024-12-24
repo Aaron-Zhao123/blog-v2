@@ -59,12 +59,12 @@ Labs for Group As are on Tuesdays (4-6pm) and Bs are on Thursdays (9-11am) in th
 | 6          | 12th Fen (Wed) | Lab Oral	  | 10am-12am|
 | 7          | 18th Feb (Tue) | Group A lab | 4pm-6pm  |
 | 7          | 20th Feb (Thu) | Group B lab | 9am-11am |
-| 7          | 25th Feb (Tue) | Group A lab | 4pm-6pm  |
-| 7          | 27th Feb (Thu) | Group B lab | 9am-11am |
-| 8          | 4th Mar (Tue)  | Group A lab | 4pm-6pm  |
-| 8          | 6th Mar (Thu)  | Group B lab | 9am-11am |
-| 9          | 11th Mar (Tue) | Group A lab | 4pm-6pm  |
-| 9          | 13th Mar (Thu) | Group B lab | 9am-11am |
+| 8          | 25th Feb (Tue) | Group A lab | 4pm-6pm  |
+| 8          | 27th Feb (Thu) | Group B lab | 9am-11am |
+| 9          | 4th Mar (Tue)  | Group A lab | 4pm-6pm  |
+| 9          | 6th Mar (Thu)  | Group B lab | 9am-11am |
+| 10         | 11th Mar (Tue) | Group A lab | 4pm-6pm  |
+| 10         | 13th Mar (Thu) | Group B lab | 9am-11am |
 
 
 ## Lecture Slides
@@ -75,3 +75,14 @@ Labs for Group As are on Tuesdays (4-6pm) and Bs are on Thursdays (9-11am) in th
 ## Labs
 
 [Lab link (for lab1-6)](https://github.com/Aaron-Zhao123/ELEC50009)
+
+## Useful links (Imperial Account Required)
+
+* [Resources](https://imperiallondon-my.sharepoint.com/:f:/g/personal/yz10513_ic_ac_uk/EivuqpDvIqpJnvKFal8l7I4Bw8KMjnE3AYVUQ2jDFldXQQ?e=5xNzy5): more on DE10, QSys, etc..
+* [Overall Course Arrangement and Team Allocation](https://imperiallondon-my.sharepoint.com/:w:/g/personal/yz10513_ic_ac_uk/EeXL2vujWyNIq_rPQ5NquFoBklvbktWTtKa0k8jd9r4mGA?e=k51enx)
+* [Midterm Assessment Information](https://imperiallondon-my.sharepoint.com/:w:/g/personal/yz10513_ic_ac_uk/EZYxCwA6f9pPs0P8x6jdzdQBHreRBkGsYwybCLduB35JCw?e=RNgVvM)
+* [Quartus and Eclipse environment (From Christos, complements to lab1)](https://imperiallondon-my.sharepoint.com/:w:/g/personal/yz10513_ic_ac_uk/ESb3iJk6fcVGucqFmEXq3iMB25Sn5gvtCNDueLKGZdxgkg?e=cjpOZ6)
+* [Programming environment setup (From Christos, complements to lab1)](https://imperiallondon-my.sharepoint.com/:w:/g/personal/yz10513_ic_ac_uk/EQ0si9jFQGZBqW0LslvhMbIB6NRpD1DT7MjzSbdgn8FduA?e=ziMSlK)
+* [Team making proposals](https://docs.google.com/spreadsheets/d/1KRSMg77ZE3N7YoFPSITeJL6b88NWEAPB510MsXXQAf8/edit?usp=sharing)
+* [Team allocation](https://imperiallondon-my.sharepoint.com/:x:/g/personal/yz10513_ic_ac_uk/EbvenKQySypNjTf31F2G2-oBBB08cDb1sTd7pdVTaYgAEw?e=g3LZJ5)
+* [Past Projects](https://imperiallondon-my.sharepoint.com/:f:/g/personal/yz10513_ic_ac_uk/EvLDpTaYsSJLpkGH784W21IBuwMT3juIYGr_85FwLDbcOw?e=Ot4hcm)
