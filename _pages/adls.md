@@ -7,56 +7,67 @@ permalink: /teaching/adls/
 
 Course code: ELEC70109/EE9-AML3-10/EE9-AO25
 
+---
+
 ## Important dates
 
-- 12th Feb, Practical 1 (Lab 1 and 2) and Practical 2 (Lab 3 and 4) submission (New date with one-week extension)
+- 7th Feb, Practical submission
 - 9th Feb, Team project sign-up ends
-- TBC, but around 12th Feb, Midterm lab oral for both practicals
-- TBC, but around 18th Mar, Show me your code session
+- 10th Feb, Midterm lab oral
+- 18th Mar, Show me your code session
 - 28th Mar, Report submission and pull request finalization
+
+---
 
 ## Full dates
 
-| Week Number | Date      | Schedule    |
-|------------|-----------|-------------|
-| 2          | 15th Jan   | Lecture 1, 2, 3 and 4, Team Signup starts|
-| 3          | 22nd Jan 	| Practical 1 lab |
-| 4          | 29th Jan 	| Practical 2 lab |
-| 5          | 5th Feb  	| Lecture 5, 6 and 7|
-| 6          | 12th Feb 	| Lecture 8, 9 and 10|
-| 7          | 19th Feb 	| Lecture 11, 12 and Team Project Meetings|
-| 8          | 26th Feb 	| Team Project Lab 1|
-| 9          | 4th Mar 	  | Team Project Lab 2|
-| 10         | 11th Mar 	| Team Project Lab 3|
-| 11         | 18th Mar 	| Show me your code |
-| End of term| 28th Mar 	| Final Report 	and Pull Request Finalization		|
+| Week Number| Date      | Schedule    |
+|------------|------------|-------------|
+| 2          | 16th Jan   | Lectures, Team signup starts|
+| 3          | 20nd Jan 	| Lectures and lab session |
+| 4          | 27th Jan 	| lab session			 |	
+| 5          | 3rd  Feb  	| Lecture 1 and 2  |
+| 5          | 6th  Feb 	| Lecture 3 and 4	 |
+| 6          | 10th Feb 	| Lecture 5 and 6  |
+| 6          | 13th Feb 	| Lecture 7 and 8  |
+| 7          | 17th Feb 	| Lecture 9 and 10 |
+| 7          | 20th Feb 	| Lecture 11 and 12|
+| 8          | 24th Feb 	| Team Project Lab |
+| 8          | 27th Feb 	| Team Project Lab |
+| 9          | 3rd Mar 	  | Team Project Lab |
+| 9          | 6th Mar 	  | Team Project Lab |
+| 10         | 10th Mar 	| Team Project Lab |
+| 10         | 13th Mar 	| Team Project Lab |
+| 11         | 17th Mar 	| Show me your code |
+| End of term| 27th Mar 	| Final Report and Pull Request Finalization |
 
+---
 
-#### Lecture 1: An Introduction to Modern Deep Learning Systems and Frameworks
+#### Lecture 1: Introduction
 
-- <a href="../../assets/pdf/adls/lecture1.pdf">Slides</a>
+- <a href="../../assets/pdf/adls_2025/lecture1.pdf">Slides</a>
 - [Git tutorial](https://jianyicheng-research.notion.site/Git-Tutorial-516864ab8fa04242ad520652744b931f)
 - [Dark Silicon and the End of Multicore Scaling](https://research.cs.wisc.edu/vertical/papers/2011/isca11-darksilicon.pdf)
 - [Managing Wire Delay in Large Chip-Multiprocessor Caches](https://ieeexplore.ieee.org/abstract/document/1551004?casa_token=P5sarPuvBZ4AAAAA:eh8TDWxx89Z04mkFw2KdFrvWhD2raDe_u66ES8e5ZEpxq276zQ0wfs2uE6tWVdQhodRf9lSmAQ)
 
 #### Lecture 2: MASE: Abstractions, Optimizations and Implementations
 
-- <a href="../../assets/pdf/adls/lecture2.pdf">Slides</a>
+- <a href="../../assets/pdf/adls_2025/lecture2.pdf">Slides</a>
 - [Troch FX](https://pytorch.org/docs/stable/fx.html)
 - [MASE](https://github.com/DeepWok/mase)
 
-#### Lecture 3: An Introduction to Practical 1
+#### Lecture 3: An Introduction to Labs
 
-- <a href="../../assets/pdf/adls/lecture3.pdf">Slides</a>
+- <a href="../../assets/pdf/adls_2025/lecture3.pdf">Slides</a>
 
-#### Lecture 4: An Introduction to Practical 2
+#### Lecture 4: An Introduction to Labs (2)
 
-- <a href="../../assets/pdf/adls/lecture4.pdf">Slides</a>
+- <a href="../../assets/pdf/adls/lecture4.pdf">Slides (to be updated)</a>
 
 
-#### Lecture 5: Understanding the Workloads: Part 1
+#### Lecture 5: Understanding the workload
 
-- <a href="../../assets/pdf/adls/lecture5.pdf">Slides</a>
+<!-- - <a href="../../assets/pdf/adls/lecture5.pdf">Slides</a> -->
 - [Convolution and DeConvolution animation](https://github.com/vdumoulin/conv_arithmetic/blob/master/README.md)
 - [Convolution padding and striding animation](https://hannibunny.github.io/mlbook/neuralnetworks/convolutionDemos.html)
 - [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
@@ -67,9 +78,9 @@ Course code: ELEC70109/EE9-AML3-10/EE9-AO25
 - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](<https://arxiv.org/abs/1810.04805>)
 - [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](<https://arxiv.org/abs/1910.10683>)
 
-#### Lecture 6: Understanding the Workloads: Part 2
+#### Lecture 6: Understanding the workload (2)
 
-- <a href="../../assets/pdf/adls/lecture6.pdf">Slides</a>
+<!-- - <a href="../../assets/pdf/adls/lecture6.pdf">Slides</a> -->
 - [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971)
 - [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/abs/2307.09288)
 - [RoFormer: Enhanced Transformer with Rotary Position Embedding](https://arxiv.org/abs/2104.09864)
@@ -80,7 +91,7 @@ Course code: ELEC70109/EE9-AML3-10/EE9-AO25
 
 #### Lecture 7: Architectural Optimizations
 
-- <a href="../../assets/pdf/adls/lecture7.pdf">Slides</a>
+<!-- - <a href="../../assets/pdf/adls/lecture7.pdf">Slides</a> -->
 - [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861)
 - [Searching for MobileNetV3](https://arxiv.org/abs/1905.02244)
 - [MobileViT: Light-weight, General-purpose, and Mobile-friendly Vision Transformer](https://arxiv.org/abs/2110.02178)
@@ -88,7 +99,7 @@ Course code: ELEC70109/EE9-AML3-10/EE9-AO25
 
 #### Lecture 8: Automated Machine Learning – An Introduction to Network Architecture Search
 
-- <a href="../../assets/pdf/adls/lecture8.pdf">Slides</a>
+<!-- - <a href="../../assets/pdf/adls/lecture8.pdf">Slides</a> -->
 - [Learning Transferable Architectures for Scalable Image Recognition](https://arxiv.org/abs/1707.07012)
 - [Exploring Randomly Wired Neural Networks for Image Recognition](https://arxiv.org/abs/1904.01569)
 - [DARTS: Differentiable Architecture Search](https://arxiv.org/abs/1806.09055)
@@ -97,16 +108,16 @@ Course code: ELEC70109/EE9-AML3-10/EE9-AO25
 - [Neural Architecture Search without Training](https://arxiv.org/abs/2006.04647)
 - [Speedy Performance Estimation for Neural Architecture Search](https://arxiv.org/abs/2006.04492)
 
-#### Lecture 9: Network Compression – Part 1
+#### Lecture 9: Network Compression
 
-- <a href="../../assets/pdf/adls/lecture9.pdf">Slides</a>
+<!-- - <a href="../../assets/pdf/adls/lecture9.pdf">Slides</a> -->
 - [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635)
 - [SNIP: Single-shot Network Pruning based on Connection Sensitivity](https://arxiv.org/abs/1810.02340)
 - [Progressive Skeletonization: Trimming more fat from a network at initialization](https://arxiv.org/abs/2006.09081)
 
-#### Lecture 10: Network Compression – Part 2
+#### Lecture 10: Network Compression (2)
 
-- <a href="../../assets/pdf/adls/lecture10.pdf">Slides</a>
+<!-- - <a href="../../assets/pdf/adls/lecture10.pdf">Slides</a> -->
 - [Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/abs/1510.00149)
 - [TinyBERT: Distilling BERT for Natural Language Understanding](https://arxiv.org/abs/1909.10351)
 - [Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer](https://arxiv.org/abs/1612.03928)
@@ -116,7 +127,7 @@ Course code: ELEC70109/EE9-AML3-10/EE9-AO25
 
 #### Lecture 11: Computation Graph and Operator-level Optimization
 
-- <a href="../../assets/pdf/adls/lecture11.pdf">Slides</a>
+<!-- - <a href="../../assets/pdf/adls/lecture11.pdf">Slides</a> -->
 - [TASO: The Tensor Algebra SuperOptimizer for Deep Learning](https://github.com/jiazhihao/TASO)
 - [Tensorflow Grappler](https://www.tensorflow.org/guide/graph_optimization)
 - [TVM: An Automated End-to-End Optimizing Compiler for Deep Learning](https://arxiv.org/abs/1802.04799)
@@ -124,7 +135,7 @@ Course code: ELEC70109/EE9-AML3-10/EE9-AO25
 
 
 #### Lecture 12: Distributed Training and Inference -->
-- <a href="../../assets/pdf/adls/lecture12.pdf">Slides</a>
+<!-- - <a href="../../assets/pdf/adls/lecture12.pdf">Slides</a> -->
 - [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](https://arxiv.org/abs/2201.12023)
 - [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629)
 - [Horovod: fast and easy distributed deep learning in TensorFlow](https://arxiv.org/abs/1802.05799)
@@ -133,31 +144,25 @@ Course code: ELEC70109/EE9-AML3-10/EE9-AO25
 
 ## Labs
 
-Labs are hosted on [MASE Wiki](https://deepwok.github.io/mase/modules/labs.html#)
+Labs are hosted on [MASE Wiki](https://deepwok.github.io/mase/modules/adls_2024.html)
 
 ## Assessment Information
 
-The assessment contains two practicals (15% each), and a team project with two people (70%).
+The assessment contains practicals (30% in total), and a team project with two people (70%).
 If you used Colab Pro, we are wiling to reimburse that cost, please keep a copy of your receipt.
 
-##### Practical 1 Submission (15%)
+##### Practical Submission (30%)
 
- - Deadline (5th Feb, submission on BlackBoard): **A Markdown file**: with all answers (plots, tables ...) of the questions and optional questions in Lab 1 and Lab2. The file should be named as `practical1_your_college_short_code.md` (eg. `practical1_yz10513.md`). 
- - Corresponding code in your forked repository (will be checked in the lab oral, no submission needed). But you can include code snippets in the submitted markdown file.
- - Deadline (TBC, but around 5th Feb) **Lab Oral**.
-
-##### Practical 2 Submission (15%)
-
- - Deadline (5th Feb, submission on BlackBoard): **A Markdown file**: with all answers (plots, tables ...) of the questions and optional questions in Lab 3 and Lab4. The file should be named as `practical2_your_college_short_code.md` (eg. `practical2_yz10513.md`). 
- - Corresponding code in your forked repository (will be checked in the lab oral, no submission needed). But you can include code snippets in the submitted markdown file.
- - Deadline (TBC, but around 5th Feb) **Lab Oral**.
+- Deadline (7th Feb, email to a.zhao@imperial.ac.uk): **A Markdown file**: with all answers (plots, tables ...) of the questions and optional questions in labs. The file should be named as `adls_labs_your_college_short_code.md` (eg. `adls_labs_yz10513.md`).
+- Corresponding code in your forked repository (will be checked in the lab oral, no submission needed). But you can include code snippets in the submitted markdown file.
+- Deadline (10th Feb) **Lab Oral**.
 
 ##### Team Project (70%)
 
-<!-- - [Team making proposal link](https://docs.google.com/spreadsheets/d/1atlb43T8x6Gv5idg0eupLlW1REFDdblw3pBgsSWci7E/edit?usp=sharing) -->
-- [List of projects](https://docs.google.com/document/d/1rRIJLxIZMVM3DLf2M_sHNxKYqzXlHxA5vM8Rl5YHehI/edit?usp=sharing)
-- [Project Teams](https://docs.google.com/spreadsheets/d/1atlb43T8x6Gv5idg0eupLlW1REFDdblw3pBgsSWci7E/edit?usp=sharing)
-- [Project Allocation](https://docs.google.com/spreadsheets/d/13HJrCRkkqF7PS0-2Db314xkFkReyX8swJTMRWXzwjY4/edit?usp=sharing)
+- A team of 3-4 people
+- [Team making link](https://docs.google.com/spreadsheets/d/1zg-qIOXIge9w0x10YjUymkymHlJOjiGJqY_3cFd7oRs/edit?usp=sharing)
+- [Team Project Requirements](https://docs.google.com/document/d/17XR49GnwWnGpyfBIqOFSyk5p7dhRDmf-pPFy1-VB5FY/edit?usp=sharing)
+- [Past project lists](https://docs.google.com/document/d/1rRIJLxIZMVM3DLf2M_sHNxKYqzXlHxA5vM8Rl5YHehI/edit?usp=sharing)
 - A roadmap meeting with a GTA (not assessed).
 - Deadline (18th March): **A show me your code lab oral** (assessed).  
 - Deadline (28th March): **Coursework code submission** as a pull request on Github (assessed). The PR should also have a clear documentation of the functionality that you have implemented and its corresponding tests. The tests should be integrated into the existing testing framework.

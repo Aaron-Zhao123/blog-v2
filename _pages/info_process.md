@@ -21,7 +21,7 @@ This course is lab-based.
 
 ## Important dates
 
-- 6th Jan, Group Registration, group members must be from the same cohort (Group A or B)
+- 6th Jan, Group Registration, group members must be from the same cohort (Group A or B, 5-6 students per group)
 - 13th Jan, Group Registration ends
 - 12th Feb, Mid-term lab oral (20%), Q\&As **as a group**, for contents in all the labs
 - 11th and 13th March, Demo showcase, final lab oral
@@ -84,5 +84,5 @@ Labs for Group As are on Tuesdays (4-6pm) and Bs are on Thursdays (9-11am) in th
 * [Quartus and Eclipse environment (From Christos, complements to lab1)](https://imperiallondon-my.sharepoint.com/:w:/g/personal/yz10513_ic_ac_uk/ESb3iJk6fcVGucqFmEXq3iMB25Sn5gvtCNDueLKGZdxgkg?e=cjpOZ6)
 * [Programming environment setup (From Christos, complements to lab1)](https://imperiallondon-my.sharepoint.com/:w:/g/personal/yz10513_ic_ac_uk/EQ0si9jFQGZBqW0LslvhMbIB6NRpD1DT7MjzSbdgn8FduA?e=ziMSlK)
 * [Team making proposals](https://docs.google.com/spreadsheets/d/1KRSMg77ZE3N7YoFPSITeJL6b88NWEAPB510MsXXQAf8/edit?usp=sharing)
-* [Team allocation](https://imperiallondon-my.sharepoint.com/:x:/g/personal/yz10513_ic_ac_uk/EbvenKQySypNjTf31F2G2-oBBB08cDb1sTd7pdVTaYgAEw?e=g3LZJ5)
+<!-- * [Team allocation](https://imperiallondon-my.sharepoint.com/:x:/g/personal/yz10513_ic_ac_uk/EbvenKQySypNjTf31F2G2-oBBB08cDb1sTd7pdVTaYgAEw?e=g3LZJ5) -->
 * [Past Projects](https://imperiallondon-my.sharepoint.com/:f:/g/personal/yz10513_ic_ac_uk/EvLDpTaYsSJLpkGH784W21IBuwMT3juIYGr_85FwLDbcOw?e=Ot4hcm)
