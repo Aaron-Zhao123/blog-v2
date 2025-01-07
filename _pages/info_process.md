@@ -63,8 +63,8 @@ Labs for Group As are on Tuesdays (4-6pm) and Bs are on Thursdays (9-11am) in th
 | 8          | 27th Feb (Thu) | Group B lab | 9am-11am |
 | 9          | 4th Mar (Tue)  | Group A lab | 4pm-6pm  |
 | 9          | 6th Mar (Thu)  | Group B lab | 9am-11am |
-| 10         | 11th Mar (Tue) | Group A lab | 4pm-6pm  |
-| 10         | 13th Mar (Thu) | Group B lab | 9am-11am |
+| 10         | 11th Mar (Tue) | Group A demo showcase | 4pm-6pm  |
+| 10         | 13th Mar (Thu) | Group B demo showcase | 9am-11am |
 
 
 ## Lecture Slides

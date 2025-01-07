@@ -14,8 +14,8 @@ Course code: ELEC70109/EE9-AML3-10/EE9-AO25
 - 7th Feb, Practical submission
 - 9th Feb, Team project sign-up ends
 - 10th Feb, Midterm lab oral
-- 18th Mar, Show me your code session
-- 28th Mar, Report submission and pull request finalization
+- 17th Mar, Show me your code session
+- 27th Mar, Report submission and pull request finalization
 
 ---
 
@@ -23,23 +23,21 @@ Course code: ELEC70109/EE9-AML3-10/EE9-AO25
 
 | Week Number| Date      | Schedule    |
 |------------|------------|-------------|
-| 2          | 16th Jan   | Lectures, Team signup starts|
-| 3          | 20nd Jan 	| Lectures and lab session |
-| 4          | 27th Jan 	| lab session			 |	
-| 5          | 3rd  Feb  	| Lecture 1 and 2  |
-| 5          | 6th  Feb 	| Lecture 3 and 4	 |
-| 6          | 10th Feb 	| Lecture 5 and 6  |
-| 6          | 13th Feb 	| Lecture 7 and 8  |
-| 7          | 17th Feb 	| Lecture 9 and 10 |
-| 7          | 20th Feb 	| Lecture 11 and 12|
-| 8          | 24th Feb 	| Team Project Lab |
-| 8          | 27th Feb 	| Team Project Lab |
-| 9          | 3rd Mar 	  | Team Project Lab |
-| 9          | 6th Mar 	  | Team Project Lab |
-| 10         | 10th Mar 	| Team Project Lab |
-| 10         | 13th Mar 	| Team Project Lab |
-| 11         | 17th Mar 	| Show me your code |
-| End of term| 27th Mar 	| Final Report and Pull Request Finalization |
+| 2          | 16th Jan   | Lectures (1 and 2, Room 407A, 11am-1pm), Team signup starts		|
+| 3          | 20nd Jan 	| Lectures (3 and 4, Room 508B, 10am-noon) and lab sessions (Room 407, 4pm-6pm)	|
+| 4          | 27th Jan 	| lab sessions (Room 407A, 4pm-6pm)			 										|	
+| 5          | 3rd  Feb  	| lab sessions (Room 508B, 10-noon)		   									|
+| 5          | 6th  Feb 	| lab sessions (Room 407A, 11am-1pm)					 							|
+| 6          | 10th Feb 	| lab oral		 (Room 403B, 4pm-6pm)							  				|
+| 6          | 13th Feb 	| Lecture	(5 and 6, Room 407A, 11am-1pm)				 							|
+| 7          | 17th Feb 	| Lecture	(7 and 8, Room 508B, 10am-noon)				 							|
+| 7          | 20th Feb 	| Lecture (9 and 10, Room 407A, 11am-1pm)										|
+| 8          | 24th Feb 	| Lecture (11 and 12, Room 407A, 11am-1pm) 									|
+| 8          | 27th Feb 	| Team Project Lab (Project scoping) 		|
+| 9          | 3rd Mar 	  | Team Project Lab 											|
+| 10         | 10th Mar 	| Team Project Lab 											|
+| 11         | 17th Mar 	| Show me your code 										|
+| End of term| 27th Mar 	| Final report and code submission 			|
 
 ---
 
@@ -134,7 +132,7 @@ Course code: ELEC70109/EE9-AML3-10/EE9-AO25
 - [MLIR](https://mlir.llvm.org/)
 
 
-#### Lecture 12: Distributed Training and Inference -->
+#### Lecture 12: Distributed Training and Inference
 <!-- - <a href="../../assets/pdf/adls/lecture12.pdf">Slides</a> -->
 - [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](https://arxiv.org/abs/2201.12023)
 - [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629)
@@ -164,6 +162,6 @@ If you used Colab Pro, we are wiling to reimburse that cost, please keep a copy 
 - [Team Project Requirements](https://docs.google.com/document/d/17XR49GnwWnGpyfBIqOFSyk5p7dhRDmf-pPFy1-VB5FY/edit?usp=sharing)
 - [Past project lists](https://docs.google.com/document/d/1rRIJLxIZMVM3DLf2M_sHNxKYqzXlHxA5vM8Rl5YHehI/edit?usp=sharing)
 - A roadmap meeting with a GTA (not assessed).
-- Deadline (18th March): **A show me your code lab oral** (assessed).  
-- Deadline (28th March): **Coursework code submission** as a pull request on Github (assessed). The PR should also have a clear documentation of the functionality that you have implemented and its corresponding tests. The tests should be integrated into the existing testing framework.
-- Deadline (28th March, PDF attached in the PR): **8-page Report** (assessed). The report should mainly focus on an evaluation of your implementation. The description of functionality and testing has being described in the PR already, so this 8-page report should include the experiments you have designed to explore certain trade-offs and properties of your optimization.
+- Deadline (17th March): **A show me your code lab oral** (assessed).  
+- Deadline (27th March): **Coursework code submission** as a pull request or an open repository on Github (assessed). The PR or repository should also have a clear documentation of the functionality that you have implemented and its corresponding tests. There should also be testing in place.
+- Deadline (27th March, PDF attached in the PR): **6-page Report** (assessed). The report should mainly focus on an evaluation of your implementation. The description of functionality and testing have being described in the PR or code repository already, so this 6-page report should include only the experiments you have designed to explore certain trade-offs and properties of your optimization.
