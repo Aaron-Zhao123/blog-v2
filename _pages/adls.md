@@ -21,7 +21,7 @@ Course code: ELEC70109/EE9-AML3-10/EE9-AO25
 
 ## Full dates
 
-| Week Number| Date      | Schedule    |
+| Week Number| Date       | Schedule    |
 |------------|------------|-------------|
 | 2          | 16th Jan   | Lectures (1 and 2, Room 407A, 11am-1pm), Team signup starts		|
 | 3          | 20nd Jan 	| Lectures (3 and 4, Room 508B, 10am-noon) and lab sessions (Room 407, 4pm-6pm)	|
@@ -29,10 +29,10 @@ Course code: ELEC70109/EE9-AML3-10/EE9-AO25
 | 5          | 3rd  Feb  	| lab sessions (Room 508B, 10-noon)		   									|
 | 5          | 6th  Feb 	| lab sessions (Room 407A, 11am-1pm)					 							|
 | 6          | 10th Feb 	| lab oral		 (Room 403B, 4pm-6pm)							  				|
-| 6          | 13th Feb 	| Lecture	(5 and 6, Room 407A, 11am-1pm)				 							|
-| 7          | 17th Feb 	| Lecture	(7 and 8, Room 508B, 10am-noon)				 							|
-| 7          | 20th Feb 	| Lecture (9 and 10, Room 407A, 11am-1pm)										|
-| 8          | 24th Feb 	| Lecture (11 and 12, Room 407A, 11am-1pm) 									|
+| 6          | 13th Feb 	| Lectures (5 and 6, Room 407A, 11am-1pm)				 							|
+| 7          | 17th Feb 	| Lectures (7 and 8, Room 508B, 10am-noon)				 							|
+| 7          | 20th Feb 	| Lectures (9 and 10, Room 407A, 11am-1pm)										|
+| 8          | 24th Feb 	| Lectures (11 and 12, Room 407A, 11am-1pm) 									|
 | 8          | 27th Feb 	| Team Project Lab (Project scoping) 		|
 | 9          | 3rd Mar 	  | Team Project Lab 											|
 | 10         | 10th Mar 	| Team Project Lab 											|
