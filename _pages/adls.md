@@ -60,7 +60,7 @@ Course code: ELEC70109/EE9-AML3-10/EE9-AO25
 
 #### Lecture 4: An Introduction to Labs (2)
 
-- <a href="../../assets/pdf/adls/lecture4.pdf">Slides (to be updated)</a>
+- <a href="../../assets/pdf/adls/lecture4.pdf">Slides</a>
 
 
 #### Lecture 5: Understanding the workload
