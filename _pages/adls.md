@@ -26,7 +26,7 @@ Course code: ELEC70109/EE9-AML3-10/EE9-AO25
 | 2          | 16th Jan   | Lectures (1 and 2, Room 407A, 11am-1pm), Team signup starts		|
 | 3          | 20nd Jan 	| Lectures (3 and 4, Room 508B, 10am-noon) and lab sessions (Room 407, 4pm-6pm)	|
 | 4          | 27th Jan 	| lab sessions (Room 407A, 4pm-6pm)			 										|	
-| 5          | 3rd  Feb  	| lab sessions (Room 508B, 10-noon)		   									|
+| 5          | 3rd  Feb  	| lab sessions (Room 407A, 4pm-6pm)		   									|
 | 5          | 6th  Feb 	| lab sessions (Room 407A, 11am-1pm)					 							|
 | 6          | 10th Feb 	| lab oral		 (Room 403B, 4pm-6pm)							  				|
 | 6          | 13th Feb 	| Lectures (5 and 6, Room 407A, 11am-1pm)				 							|
