@@ -66,7 +66,7 @@ Course code: ELEC70109/EE9-AML3-10/EE9-AO25
 
 #### Lecture 5: Understanding the workload
 
-- <a href="../../assets/pdf/adls/lecture5.pdf">Slides</a>
+- <a href="../../assets/pdf/adls_2025/lecture5.pdf">Slides</a>
 - [Convolution and DeConvolution animation](https://github.com/vdumoulin/conv_arithmetic/blob/master/README.md)
 - [Convolution padding and striding animation](https://hannibunny.github.io/mlbook/neuralnetworks/convolutionDemos.html)
 - [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
@@ -79,7 +79,7 @@ Course code: ELEC70109/EE9-AML3-10/EE9-AO25
 
 #### Lecture 6: Understanding the workload (2)
 
-- <a href="../../assets/pdf/adls/lecture6.pdf">Slides</a>
+- <a href="../../assets/pdf/adls_2025/lecture6.pdf">Slides</a>
 - [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971)
 - [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/abs/2307.09288)
 - [RoFormer: Enhanced Transformer with Rotary Position Embedding](https://arxiv.org/abs/2104.09864)
