@@ -90,7 +90,7 @@ Course code: ELEC70109/EE9-AML3-10/EE9-AO25
 
 #### Lecture 7: Architectural Optimizations
 
-<!-- - <a href="../../assets/pdf/adls/lecture7.pdf">Slides</a> -->
+- <a href="../../assets/pdf/adls_2025/lecture7.pdf">Slides</a>
 - [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861)
 - [Searching for MobileNetV3](https://arxiv.org/abs/1905.02244)
 - [MobileViT: Light-weight, General-purpose, and Mobile-friendly Vision Transformer](https://arxiv.org/abs/2110.02178)
@@ -98,7 +98,7 @@ Course code: ELEC70109/EE9-AML3-10/EE9-AO25
 
 #### Lecture 8: Automated Machine Learning – An Introduction to Network Architecture Search
 
-<!-- - <a href="../../assets/pdf/adls/lecture8.pdf">Slides</a> -->
+- <a href="../../assets/pdf/adls_2025/lecture8.pdf">Slides</a>
 - [Learning Transferable Architectures for Scalable Image Recognition](https://arxiv.org/abs/1707.07012)
 - [Exploring Randomly Wired Neural Networks for Image Recognition](https://arxiv.org/abs/1904.01569)
 - [DARTS: Differentiable Architecture Search](https://arxiv.org/abs/1806.09055)
